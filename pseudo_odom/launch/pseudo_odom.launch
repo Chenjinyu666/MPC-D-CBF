@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="pseudo_odom" type="pseudo_odom_node" name="pseudo_odom" output="screen"/>
+</launch>
